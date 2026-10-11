@@ -24,6 +24,9 @@ YesPlayMusic项目地址：https://github.com/qier222/YesPlayMusic/releases
 3. 点击开始同步
 4. 打开 VRChat 游戏内 OSC 开关
 5. 完成
+
+## 感谢
+
 如需屏幕歌词显示可以尝试热词
 热词项目地址：https://www.microsoft.com/store/productId/9MXFFHVQVBV9
 由衷感谢 NcmVRChatSync 作者， YesPlayMusic 作者，以及 ChatGPT 与 DeepSeek 联合开发此项目，其他问题联系邮箱：3309592066@qq.com
